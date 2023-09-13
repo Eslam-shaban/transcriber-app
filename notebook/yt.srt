@@ -1,0 +1,60 @@
+1
+00:00:00,250 --> 00:00:03,550
+In this video, I'm going to show you how you could build your very first
+
+2
+00:00:03,620 --> 00:00:06,846
+streamlit web application in Python. So the first thing that
+
+3
+00:00:06,868 --> 00:00:09,390
+you need to do is install streamlit.
+
+4
+00:00:10,930 --> 00:00:14,190
+And so let's create a file called app PY,
+
+5
+00:00:18,050 --> 00:00:21,178
+three quotation opening and a three quotation
+
+6
+00:00:21,274 --> 00:00:24,934
+closing in order to allow it to be in markdown mode. So the
+
+7
+00:00:25,012 --> 00:00:31,974
+hashtag means the h one heading and
+
+8
+00:00:32,012 --> 00:00:35,734
+we're making it bold. And then the second word here, we'll make it
+
+9
+00:00:35,772 --> 00:00:39,606
+in italic and then we'll save it. And then
+
+10
+00:00:39,628 --> 00:00:42,310
+we'll head back to run it streamlit.
+
+11
+00:00:43,770 --> 00:00:47,906
+And then voila. You have created your very first streamlit
+
+12
+00:00:47,938 --> 00:00:51,054
+web application in Python. If your finding value in this
+
+13
+00:00:51,092 --> 00:00:54,602
+video, don't forget to smash the like button and also subscribe
+
+14
+00:00:54,666 --> 00:00:57,918
+to the Data Professor YouTube channel. And I'll see you in the
+
+15
+00:00:57,924 --> 00:00:58,300
+next video.
+
